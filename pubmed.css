@@ -1,0 +1,8 @@
+pubmed-fetcher/
+├── pubmed_fetcher/
+│   ├── __init__.py
+│   ├── client.py
+│   └── main.py
+├── pyproject.toml
+├── README.md
+└── LICENSE
